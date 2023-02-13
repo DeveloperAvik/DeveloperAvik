@@ -24,7 +24,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/developer-avik-das" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="developer-avik-das" height="30" width="40" /></a>
-<a href="https://instagram.com/____a_d_i___official_____" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="____a_d_i___official_____" height="30" width="40" /></a>
+<a href="https://www.instagram.com/coderavik/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="____a_d_i___official_____" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/ucndj7j-ykhfy0ct_7ozzoba" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="ucndj7j-ykhfy0ct_7ozzoba" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/avik_das" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="avik_das" height="30" width="40" /></a>
 </p>
