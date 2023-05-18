@@ -1,7 +1,7 @@
 # 💫 About Me:
 <br>I'm a Software Engineer , with a passion for building scalable, high performing products and web applications. As a developer and Always looking to grow as a Professional. I have expertise on C, C++, Javascript ,React Js , Node Js , Express Js , MongoDB , React Native , Java , Python MySQL etc . I have an extensive background in engineering and know how to get things done. I've worked on various projects from my own side projects to complex integration work with other companies .<br>
 
-gobuster dns -d google.com -w ~/wordlists/subdomains.txt
+
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/tyto.avik) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/avik__d) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/developer-avik-das) 
