@@ -1,5 +1,22 @@
 # 💫 About Me:
-<br>I'm a Software Engineer , with a passion for building scalable, high performing products and web applications. As a developer and Always looking to grow as a Professional. I have expertise on C, C++, Javascript ,React Js , Node Js , Express Js , MongoDB , React Native , Java , Python MySQL etc . I have an extensive background in engineering and know how to get things done. I've worked on various projects from my own side projects to complex integration work with other companies .<br>
+<br>
+🔹 Software Engineer | Full Stack Developer | Problem Solver 🔹
+
+🔹 About Me 🔹
+Passionate Software Engineer with a strong foundation in designing, developing, and deploying cutting-edge software solutions. Proficient in a wide array of programming languages, frameworks, and development methodologies. Dedicated to creating efficient, reliable, and scalable applications that drive business growth and enhance user experiences.
+
+🔹 Technical Skills 🔹
+Languages: C, C++, JAVA, Java-Script, Python, DBMS etc.
+Frameworks: React Js, Node Js, Express Js, etc.
+Databases: MySQL, MongoDB.
+Tools: Git and Github, VsCode, Postman.
+Cloud Platforms: AWS.
+
+🔹 Interests 🔹
+Passionate about exploring emerging technologies, attending tech conferences, and staying updated with the latest industry trends. Enjoy collaborating on open-source projects, contributing to online coding communities, and mentoring aspiring developers.
+
+Let's connect! Feel free to reach out if you're interested in discussing software development, technology innovations, or potential collaboration opportunities. 
+<br>
 
 
 
