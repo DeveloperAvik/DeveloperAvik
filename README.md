@@ -22,6 +22,7 @@ Cloud Platforms: AWS.<br>
 <br>
 Passionate about exploring emerging technologies, attending tech conferences, and staying updated with the latest industry trends. Enjoy collaborating on open-source projects, contributing to online coding communities, and mentoring aspiring developers.
 <br>
+<br>
 Let's connect! Feel free to reach out if you're interested in discussing software development, technology innovations, or potential collaboration opportunities. 
 <br>
 
