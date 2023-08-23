@@ -12,8 +12,8 @@ Passionate Software Engineer with a strong foundation in designing, developing, 
 <br>
 <br>
 Languages: C, C++, JAVA, Java-Script, Python, DBMS etc. <br>
-Frameworks: React Js, Node Js, Express Js, etc.<br>
-Databases: MySQL, MongoDB.<br>
+Frameworks: React Js, Node Js, Express Js, TypeScript, Spring, Flask,etc.<br>
+Databases: MySQL, MongoDB, SqlLite.<br>
 Tools: Git and Github, VsCode, Postman.<br>
 Cloud Platforms: AWS.<br>
 <br>
@@ -43,9 +43,6 @@ Feel free to reach out if you're interested in discussing software development, 
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=developeravik&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
-### 😂 Random Dev Meme
-<img src="https://rm.up.railway.app/" width="512px"/>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=developeravik&icon=2&color=1)](https://visitcount.itsvg.in)
