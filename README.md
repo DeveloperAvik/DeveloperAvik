@@ -10,12 +10,13 @@ Passionate Software Engineer with a strong foundation in designing, developing, 
 <br>
 🔹 Technical Skills 🔹
 <br>
+<br>
 Languages: C, C++, JAVA, Java-Script, Python, DBMS etc. <br>
 Frameworks: React Js, Node Js, Express Js, etc.<br>
 Databases: MySQL, MongoDB.<br>
 Tools: Git and Github, VsCode, Postman.<br>
 Cloud Platforms: AWS.<br>
-
+<br>
 🔹 Interests 🔹
 <br>
 Passionate about exploring emerging technologies, attending tech conferences, and staying updated with the latest industry trends. Enjoy collaborating on open-source projects, contributing to online coding communities, and mentoring aspiring developers.
