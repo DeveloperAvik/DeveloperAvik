@@ -5,7 +5,7 @@ Software Engineer || Full Stack Developer || Problem Solver
 -----------------------------------------------------------
 
 🔹 About Me 🔹 <br/> <br/> Passionate Software Engineer with a strong foundation in designing, developing, and deploying cutting-edge software solutions. Proficient in a wide array of programming languages, frameworks, and development methodologies. Dedicated to creating efficient, reliable, and scalable applications that drive business growth and enhance user experiences. <br/> <br/>🔹 Technical Skills 🔹 <br/> <br/> Languages: C, C++, JAVA, Java-Script, Python etc. <br/> Frameworks: React Js, Node Js, Express Js, TypeScript, Spring, Flask,etc. <br/>
-Databases: MySQL, MongoDB, SqlLite. <br/>  
+Databases: MySQL, MongoDB, SqlLite. <br/>
 Tools: Git and Github, VsCode, Postman. <br/>
 Cloud Platforms: AWS. <br/>
 <br/>
