@@ -4,7 +4,14 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Software Engineer || Full Stack Developer || Problem Solver
 -----------------------------------------------------------
 
-🔹 About Me 🔹 Passionate Software Engineer with a strong foundation in designing, developing, and deploying cutting-edge software solutions. Proficient in a wide array of programming languages, frameworks, and development methodologies. Dedicated to creating efficient, reliable, and scalable applications that drive business growth and enhance user experiences. 🔹 Technical Skills 🔹 Languages: C, C++, JAVA, Java-Script, Python etc. Frameworks: React Js, Node Js, Express Js, TypeScript, Spring, Flask,etc. Databases: MySQL, MongoDB, SqlLite. Tools: Git and Github, VsCode, Postman. Cloud Platforms: AWS. 🔹 Interests 🔹 Passionate about exploring emerging technologies, attending tech conferences, and staying updated with the latest industry trends. Enjoy collaborating on open-source projects, contributing to online coding communities, and mentoring aspiring developers. Feel free to reach out if you're interested in discussing software development, technology innovations, or potential collaboration opportunities.
+🔹 About Me 🔹 <br/> <br/> Passionate Software Engineer with a strong foundation in designing, developing, and deploying cutting-edge software solutions. Proficient in a wide array of programming languages, frameworks, and development methodologies. Dedicated to creating efficient, reliable, and scalable applications that drive business growth and enhance user experiences. <br/> <br/>🔹 Technical Skills 🔹 <br/> <br/> Languages: C, C++, JAVA, Java-Script, Python etc. <br/> Frameworks: React Js, Node Js, Express Js, TypeScript, Spring, Flask,etc. <br/>
+Databases: MySQL, MongoDB, SqlLite. <br/>  
+Tools: Git and Github, VsCode, Postman. <br/>
+Cloud Platforms: AWS. <br/>
+<br/>
+🔹 Interests 🔹
+<br/>
+Passionate about exploring emerging technologies, attending tech conferences, and staying updated with the latest industry trends. Enjoy collaborating on open-source projects, contributing to online coding communities, and mentoring aspiring developers. Feel free to reach out if you're interested in discussing software development, technology innovations, or potential collaboration opportunities.
 
 * 🌍  I'm based in Germany
 * 🖥️  See my portfolio at [My Work Details](http://programmeravik.vercel.app/)
