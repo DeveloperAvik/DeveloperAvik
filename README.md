@@ -1,6 +1,26 @@
 <h1 align="center">Hi People Called Me Avik ...</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h2>
+🔹 Software Engineer | Full Stack Developer | Problem Solver 🔹
+<br/>
+<br/>
+🔹 About Me 🔹<br/>
+Passionate Software Engineer with a strong foundation in designing, developing, and deploying cutting-edge software solutions. Proficient in a wide array of programming languages, frameworks, and development methodologies. Dedicated to creating efficient, reliable, and scalable applications that drive business growth and enhance user experiences.
+<br/>
+<br/>
+🔹 Technical Skills 🔹<br/>
+Languages: C , C++ , JAVA , Java-Script , Python , DBMS etc . <br/>
+Frameworks: React Js, Node Js, Express Js etc. <br/>
+Databases: MySQL, MongoDB . <br/>
+Tools: Git and Github , VsCode , Postman . <br/>
+Cloud Platforms: AWS . <br/>
+<br/>
+<br/>
+🔹 Interests 🔹 <br/>
+Passionate about exploring emerging technologies, attending tech conferences, and staying updated with the latest industry trends. Enjoy collaborating on open-source projects, contributing to online coding communities, and mentoring aspiring developers.
+<br/>
+  <br/>
 
+#SoftwareEngineer #FullStackDeveloper #SoftwareArchitecture #ProblemSolving #Innovation </h2>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=developeravik&label=Profile%20views&color=0e75b6&style=flat" alt="developeravik" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=developeravik" alt="developeravik" /></a> </p>
