@@ -1,7 +1,5 @@
 <h3 align="center">"Crafting Digital Solutions: The Art and Science of Software Engineering"</h3>
-
-![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=jwenjian.visitor-badge&left_color=red&right_color=green) 
-RGB colors eg: #595959 needs to be %23595959 in the URL
+![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=jwenjian.visitor-badge)
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=developeravik" alt="developeravik" /></a> </p>
 
