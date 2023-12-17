@@ -6,13 +6,13 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on **Data Structure and Algorithoms**
+- 🔭 I’m currently working on **Data Structure and Algorithms ..**
 
 - 🌱 I’m currently learning **Itz secrete**
 
 - 👯 I’m looking to collaborate on **Open source projects**
 
-- 📝 I regularly write articles on [techprivet.com](techprivet.com)
+- 📝 I regularly write articles on [techprivet.com](tech privet.com)
 
 - 💬 Ask me about **Cyber Security && Software Development**
 
