@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 About Avik :
 👋 Hi, I'm Avik Das, a passionate software engineer. Proficient in Web/App Development and DSA, I specialize in full-stack development and cyber security. With a solid foundation in Computer Science, I bring a results-oriented approach to every project.<br><br>💡 My GitHub showcases my dedication to clean, efficient code and collaborative problem-solving. I thrive on staying ahead in tech, exploring Blockchain , Mechine Learning etc.<br><br>🚀 Open to meaningful collaborations, I actively contribute to open-source projects and welcome discussions on innovation, coding best practices, and beyond. Let's connect and code something amazing!<br><br>Happy coding! 🌟<br>
 
 
