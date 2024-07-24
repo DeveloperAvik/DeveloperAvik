@@ -1,5 +1,25 @@
-# 💫 About Avik :
-👋 Hi, I'm Avik Das, a passionate software engineer. Proficient in Web/App Development and DSA, I specialize in full-stack development and cyber security. With a solid foundation in Computer Science, I bring a results-oriented approach to every project.<br><br>💡 My GitHub showcases my dedication to clean, efficient code and collaborative problem-solving. I thrive on staying ahead in tech, exploring Blockchain, Mechine-Learning, etc.<br><br>🚀 Open to meaningful collaborations, I actively contribute to open-source projects and welcome discussions on innovation, coding best practices, and beyond. Let's connect and code something amazing!<br><br>Happy coding! 🌟<br>
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=salesp07.salesp07" />
+
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Pedro+Muniz!;" />
+</h1>
+
+<h3 align="center">A passionate software developer from Canada 🇨🇦</h3>
+
+<br/>
+
+<div align="center">
+ 
+ 🔭 I’m currently working on **a marketplace**
+ 
+ 🌱 I’m currently learning **Docker, Supabase, AWS**
+
+💬 Ask me about **Node.js, React, Firebase... or anything [here](https://github.com/developeravik/developeravik/issues)**
+
+⚡ Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs**
+
+ </div>
+
 
 
 ## 🌐 Socials:
