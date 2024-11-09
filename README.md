@@ -7,13 +7,13 @@
 
 <p align="left"> <a href="https://twitter.com/developeravik" target="blank"><img src="https://img.shields.io/twitter/follow/developeravik?logo=twitter&style=for-the-badge" alt="developeravik" /></a> </p>
 
-- 🔭 I’m currently working on **Hussssssssssssss**
+- 🔭 I’m currently working on **I'm Jobless**
 
-- 🌱 I’m currently learning **He He he It's Secrate**
+- 🌱 I’m currently learning **App Development with React Native**
 
 - 👯 I’m looking to collaborate on [PriviShare](https://github.com/DeveloperAvik/PriviShare.git)
 
-- 💬 Ask me about **React,Node, Django, MongoDB,MySql,DSA,BlockChain and Offensive Security**
+- 💬 Ask me about **React, Node, Django, MongoDB, MySql, DSA, BlockChain, and Offensive Security**
 
 - 📫 How to reach me **avikd906@gmail.com**
 
