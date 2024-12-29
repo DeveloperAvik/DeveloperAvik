@@ -13,7 +13,7 @@
 
 - 👯 I’m looking to collaborate on [PriviShare](https://github.com/DeveloperAvik/PriviShare.git)
 
-- 💬 Ask me about **React, Node, Django, MongoDB, MySql, DSA, BlockChain, and Offensive Security**
+- 💬 Ask me about **React, Node, Django, MongoDB, MySql, DSA, BlockChain, and Offensive Security ...**
 
 - 📫 How to reach me **avikd906@gmail.com**
 
