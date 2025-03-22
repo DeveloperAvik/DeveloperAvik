@@ -15,7 +15,7 @@
 
 - 💬 Ask me about **React, Node, Django, MongoDB, MySql, DSA, and Offensive Security ...**
 
-- 📫 How to reach me **developeravik@gmail.com**
+- 📫 How to reach me **developeravikdas@gmail.com**
 
 
 
