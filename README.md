@@ -1,23 +1,65 @@
-<h1 align="center">Hi 👋, I'm Avik ...</h1>
-<h3 align="center">A passionate Software Engineer from Kolkata,India ..</h3>
+# 👋 Hey there! I'm [Your Name]
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=developeravik&label=Profile%20views&color=0e75b6&style=flat" alt="developeravik" /> </p>
+## 🛡️ Cybersecurity Specialist | 💻 Full-Stack Developer | 🎓 Educator & Content Creator
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=developeravik" alt="developeravik" /></a> </p>
+I'm a passionate cybersecurity enthusiast and software engineer with experience in offensive security, full-stack development, and educational content creation. Currently ranked in the **Top 1% on TryHackMe (LEGEND status)** with over **150+ labs completed**, I also actively contribute to Bug Bounty programs on BugCrowd and create high-quality learning resources for over **550+ students** on Udemy and 600+ YouTube subscribers.
 
-<p align="left"> <a href="https://twitter.com/developeravik" target="blank"><img src="https://img.shields.io/twitter/follow/developeravik?logo=twitter&style=for-the-badge" alt="developeravik" /></a> </p>
+---
 
-- 🔭 I’m currently working on **I'm Jobless**
+### 🔐 Cybersecurity Highlights
 
-- 🌱 I’m currently learning **App Development with React Native**
+- 🧠 **TryHackMe [0xD] LEGEND** | 150+ rooms completed
+- 🕵️ **BugCrowd Bug Bounty Hunter** | 30+ valid vulnerabilities reported (XSS, IDOR, Auth flaws, etc.)
+- 🎓 **eJPT Certified** (Junior Penetration Tester, eLearnSecurity)
+- 📚 **Cybersecurity Instructor** on Udemy | 550+ Students
+- 🧪 Tools: Burp Suite, Nmap, Metasploit, Nikto, Gobuster, wfuzz, dirsearch
 
-- 👯 I’m looking to collaborate on [PriviShare](https://github.com/DeveloperAvik/PriviShare.git)
+---
 
-- 💬 Ask me about **React, Node, Django, MongoDB, MySql, DSA, and Offensive Security ...**
+### 💻 Software Engineering Projects
 
-- 📫 How to reach me **developeravikdas@gmail.com**
+- 🧭 **BackToMe**: A Lost and Found Platform  
+  Tech Stack: React.js, Tailwind CSS, Node.js, MongoDB, Firebase  
+  → Enables real-time reporting/search with 95% match accuracy.
 
+- 🍽️ **BistroTrack**: Restaurant Management System  
+  Tech Stack: MERN Stack, JWT, Stripe  
+  → Role-based admin dashboard, 300+ orders managed, 100+ secure accounts.
 
+---
+
+### 🔧 Technical Skills
+
+- **Languages**: Python, JavaScript, C, C++, TypeScript
+- **Web**: React, Node.js, Express.js, Tailwind CSS, Redux, Next.js, Django
+- **Security**: Web App Pentesting, Recon, OWASP Top 10, Network Scanning
+- **Databases**: MongoDB, PostgreSQL, MySQL
+- **Tools**: Git, Vercel, Firebase, JWT, Stripe API
+
+---
+
+### 🏅 Honors & Certifications
+
+- 🏆 **Zonal Information Olympiad Finalist**
+- 🥇 **LeetCode 50 Days Badge** | 100+ problems solved
+- 📜 **Meta Certifications**: JavaScript, Back-End Development
+- 📘 **IBM & EC-Council**: Cybersecurity Tools, Network Defense
+
+---
+
+### 🌐 Let's Connect
+
+- 🎥 [YouTube – Ethical Hacking Tutorials](#)
+- 📚 [Udemy Course – Ethical Hacking for Beginners](#)
+- 🐞 [BugCrowd Profile](#)
+- 🔗 [LinkedIn](#)
+- 📂 [Portfolio Website (if available)](#)
+
+---
+
+> "Security is not a product, but a process." – Bruce Schneier
+
+Thanks for stopping by! Feel free to explore my repos or reach out for collaboration, mentorship, or bug bounty discussions. 🚀
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/developeravik) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/developeravik) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/developeravik) 
