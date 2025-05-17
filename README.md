@@ -1,7 +1,10 @@
 # 👋 Hey there! I'm Avik Das
 ## 🛡️ Software Engineer | Cybersecurity Specialist | 💻 Full-Stack Developer | 🎓 Educator & Content Creator
 
-I'm a passionate cybersecurity enthusiast and software engineer with experience in offensive security, full-stack development, and educational content creation. Currently ranked in the **Top 1% on TryHackMe (LEGEND status)** with over **150+ labs completed**, I also actively contribute to Bug Bounty programs on BugCrowd and create high-quality learning resources for over **550+ students** on Udemy and 600+ YouTube subscribers.
+> **"One thing God and I have in common: we write code for creation, not repetition."**  
+> — *Avik Das*
+
+I'm a passionate cybersecurity enthusiast and software engineer with experience in offensive security, full-stack development, and educational content creation...
 
 ---
 
