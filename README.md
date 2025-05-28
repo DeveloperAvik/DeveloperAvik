@@ -18,17 +18,19 @@ I'm a passionate cybersecurity enthusiast and software engineer with experience 
 
 ---
 
-<!--
+
 ### 💻 Software Engineering Projects
 
 - 🧭 **BackToMe**: A Lost and Found Platform  
   Tech Stack: React.js, Tailwind CSS, Node.js, MongoDB, Firebase  
-  → Enables real-time reporting/search with 95% match accuracy.
+  → Enables real-time reporting/search with 95% match accuracy.  
+  🔗 [GitHub Repository](https://github.com/DeveloperAvik/BackToMe)
 
 - 🍽️ **BistroTrack**: Restaurant Management System  
   Tech Stack: MERN Stack, JWT, Stripe  
-  → Role-based admin dashboard, 300+ orders managed, 100+ secure accounts.
--->
+  → Role-based admin dashboard, 300+ orders managed, 100+ secure accounts.  
+  🔗 [GitHub Repository](https://github.com/DeveloperAvik/BistroTrack)
+
 
 ---
 
