@@ -110,7 +110,7 @@ I'm a passionate cybersecurity enthusiast and software engineer with expertise i
 - 📚 [Udemy – Advanced Penetration Testing](https://www.udemy.com/course/ethical-hacking-bootcamp-2024/?referralCode=0C7A077FE8CAFE016258)  
 - 📚 [Udemy – Web Application Pentesting Mastery](https://www.udemy.com/course/web-application-penetration-testing-mastery/?referralCode=D193D0FE07A90D939919)  
 - 🔗 [LinkedIn](https://www.linkedin.com/in/developeravik/)  
-- 📂 [Portfolio Website](https://portfolio-2025-ruby.vercel.app/)
+- 📂 [Portfolio Website](https://developeravik.xyz/)
 
 ---
 
