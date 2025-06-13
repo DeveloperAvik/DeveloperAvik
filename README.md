@@ -12,8 +12,8 @@ I'm a passionate cybersecurity enthusiast and software engineer with expertise i
 ### 🔐 Cybersecurity Highlights
 
 - 🧠 **TryHackMe [0xD] LEGEND** | 150+ rooms completed  
-- 🕵️ **BugCrowd Bug Bounty Hunter** | 30+ valid vulnerabilities reported (XSS, IDOR, Auth flaws, etc.)  
-- 📚 **Cybersecurity Instructor** on Udemy | 600+ Students  
+- 🕵️ **BugCrowd Bug Bounty Hunter** | 40+ valid vulnerabilities reported (XSS, IDOR, Auth flaws, etc.)  
+- 📚 **Cybersecurity Instructor** on Udemy | 650+ Students  
 - 🧪 Tools: Burp Suite, Nmap, Metasploit, Nikto, Gobuster, wfuzz, dirsearch
 
 ---
@@ -48,8 +48,8 @@ I'm a passionate cybersecurity enthusiast and software engineer with expertise i
 **ThinkCloudly** – California, USA  
 *May 2025 – Present*  
 - Conduct security assessments, penetration testing, and vulnerability remediation for web & cloud applications.  
-- Collaborate with dev teams to integrate secure coding and improve security posture.  
-- Identify and fix critical flaws such as XSS, IDOR, and authentication bugs.  
+- Collaborate with development teams to integrate secure coding practices and enhance security posture.  
+- Identify and fix critical flaws, such as cross-site scripting (XSS), insecure direct object references (IDOR), and authentication bugs.  
 - Deliver clear, actionable reports to stakeholders.
 
 #### Freelance Bug Hunter  
@@ -69,12 +69,12 @@ I'm a passionate cybersecurity enthusiast and software engineer with expertise i
 **Tytosoft**  
 *March 2023 – Present*  
 - Lead product development and innovation teams.  
-- Build scalable, impactful software solutions combining latest tech and best practices.
+- Build scalable, impactful software solutions combining the latest tech and best practices.
 
 #### Full Stack Web Developer (MERN)  
 **Fn's Software**  
 *2022 – Present*  
-- Design and implement full-stack applications with MERN stack.  
+- Design and implement full-stack applications with the MERN stack.  
 - Collaborate across teams to deliver user-friendly and performant apps.
 
 #### Offensive Security Content Creator  
@@ -108,7 +108,8 @@ I'm a passionate cybersecurity enthusiast and software engineer with expertise i
 
 - 🎥 [YouTube – Ethical Hacking Tutorials](https://www.youtube.com/@DreadSpecterOfficial)  
 - 📚 [Udemy – Advanced Penetration Testing](https://www.udemy.com/course/ethical-hacking-bootcamp-2024/?referralCode=0C7A077FE8CAFE016258)  
-- 📚 [Udemy – Web Application Pentesting Mastery](https://www.udemy.com/course/web-application-penetration-testing-mastery/?referralCode=D193D0FE07A90D939919)  
+- 📚 [Udemy – Web Application Pentesting Mastery](https://www.udemy.com/course/web-application-penetration-testing-mastery/?referralCode=D193D0FE07A90D939919)
+- 📚 [Udemy – The Art of Malware Creation: A Deep Dive into Cyber Attacks](https://www.udemy.com/course/malware-development-for-red-teamming/?couponCode=A4E4E484C6B22CDB66E0)  
 - 🔗 [LinkedIn](https://www.linkedin.com/in/developeravik/)  
 - 📂 [Portfolio Website](https://developeravik.xyz/)
 
