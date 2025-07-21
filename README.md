@@ -11,9 +11,9 @@ I'm a passionate cybersecurity enthusiast and software engineer with expertise i
 
 ### 🔐 Cybersecurity Highlights
 
-- 🧠 **TryHackMe [0xD] LEGEND** | 150+ rooms completed  
+- 🧠 **TryHackMe [0xD] LEGEND** | 170+ rooms completed  
 - 🕵️ **BugCrowd Bug Bounty Hunter** | 40+ valid vulnerabilities reported (XSS, IDOR, Auth flaws, etc.)  
-- 📚 **Cybersecurity Instructor** on Udemy | 650+ Students  
+- 📚 **Cybersecurity Instructor** on Udemy | 750+ Students  
 - 🧪 Tools: Burp Suite, Nmap, Metasploit, Nikto, Gobuster, wfuzz, dirsearch
 
 ---
@@ -101,6 +101,8 @@ I'm a passionate cybersecurity enthusiast and software engineer with expertise i
 - 🥇 LeetCode 50 Days Badge | 100+ problems solved  
 - 📜 Meta Certifications: JavaScript, Back-End Development  
 - 📘 IBM & EC-Council Certifications: Cybersecurity Tools, Network Defense
+- 🛡️ eJPT (eLearnSecurity Junior Penetration Tester)
+- 🔐 OSCP (Offensive Security Certified Professional)
 
 ---
 
