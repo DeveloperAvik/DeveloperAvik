@@ -52,7 +52,7 @@ I'm a passionate cybersecurity enthusiast and software engineer with expertise i
 - Identify and fix critical flaws, such as cross-site scripting (XSS), insecure direct object references (IDOR), and authentication bugs.  
 - Deliver clear, actionable reports to stakeholders.
 
-#### Freelance Bug Hunter  
+#### Bug Hunter  
 **Bugcrowd** – Kolkata, India  
 *October 2024 – Present*  
 - Hunt and report real-world vulnerabilities (XSS, IDOR, Auth flaws).  
@@ -73,7 +73,7 @@ I'm a passionate cybersecurity enthusiast and software engineer with expertise i
 
 #### Full Stack Web Developer (MERN)  
 **Fn's Software**  
-*2022 – Present*  
+*Jan 2022 – June 2022*  
 - Design and implement full-stack applications with the MERN stack.  
 - Collaborate across teams to deliver user-friendly and performant apps.
 
