@@ -1,20 +1,11 @@
 # 👋 Hey there! I'm Avik Das
 
-## 🛡️ Software Engineer | Penetration Tester | 💻 Full-Stack Developer | 🎓 Educator & Content Creator
+## 🛡️ Software Engineer | 💻 Full-Stack Developer
 
 > **"One thing God and I have in common: we write code for creation, not repetition."**  
 > — *Avik Das*
 
 I'm a passionate cybersecurity enthusiast and software engineer with expertise in offensive security, full-stack development, and educational content creation.
-
----
-
-### 🔐 Cybersecurity Highlights
-
-- 🧠 **TryHackMe [0xD] LEGEND** | 170+ rooms completed  
-- 🕵️ **BugCrowd Bug Bounty Hunter** | 40+ valid vulnerabilities reported (XSS, IDOR, Auth flaws, etc.)  
-- 📚 **Cybersecurity Instructor** on Udemy | 750+ Students  
-- 🧪 Tools: Burp Suite, Nmap, Metasploit, Nikto, Gobuster, wfuzz, dirsearch
 
 ---
 
@@ -44,27 +35,6 @@ I'm a passionate cybersecurity enthusiast and software engineer with expertise i
 
 ### 💼 Professional Experience
 
-#### Cybersecurity Consultant  
-**ThinkCloudly** – California, USA  
-*May 2025 – Present*  
-- Conduct security assessments, penetration testing, and vulnerability remediation for web & cloud applications.  
-- Collaborate with development teams to integrate secure coding practices and enhance security posture.  
-- Identify and fix critical flaws, such as cross-site scripting (XSS), insecure direct object references (IDOR), and authentication bugs.  
-- Deliver clear, actionable reports to stakeholders.
-
-#### Bug Hunter  
-**Bugcrowd** – Kolkata, India  
-*October 2024 – Present*  
-- Hunt and report real-world vulnerabilities (XSS, IDOR, Auth flaws).  
-- Perform deep reconnaissance, manual testing, and exploit development.  
-- Work closely with clients for remediation and security improvements.
-
-#### Instructor  
-**Udemy** – California, USA  
-*September 2024 – Present*  
-- Develop and deliver comprehensive cybersecurity courses covering ethical hacking and penetration testing.  
-- Support and mentor 600+ students with updated content and hands-on labs.
-
 #### CEO & Software Development Engineer  
 **Tytosoft**  
 *March 2023 – Present*  
@@ -77,11 +47,6 @@ I'm a passionate cybersecurity enthusiast and software engineer with expertise i
 - Design and implement full-stack applications with the MERN stack.  
 - Collaborate across teams to deliver user-friendly and performant apps.
 
-#### Offensive Security Content Creator  
-**YouTube**  
-*April 2022 – Present*  
-- Produce 50+ videos on web app pentesting, bug hunting, and offensive security.  
-- Built a community of 600+ subscribers with 10,000+ views.
 
 ---
 
@@ -100,24 +65,16 @@ I'm a passionate cybersecurity enthusiast and software engineer with expertise i
 - 🏆 Zonal Information Olympiad Finalist  
 - 🥇 LeetCode 50 Days Badge | 100+ problems solved  
 - 📜 Meta Certifications: JavaScript, Back-End Development  
-- 📘 IBM & EC-Council Certifications: Cybersecurity Tools, Network Defense
-- 🛡️ eJPT (eLearnSecurity Junior Penetration Tester)
-- 🔐 OSCP (Offensive Security Certified Professional)
+
 
 ---
 
 ### 🌐 Let's Connect
 
-- 🎥 [YouTube – Ethical Hacking Tutorials](https://www.youtube.com/@DreadSpecterOfficial)  
-- 📚 [Udemy – Advanced Penetration Testing](https://www.udemy.com/course/ethical-hacking-bootcamp-2024/?referralCode=0C7A077FE8CAFE016258)  
-- 📚 [Udemy – Web Application Pentesting Mastery](https://www.udemy.com/course/web-application-penetration-testing-mastery/?referralCode=D193D0FE07A90D939919)
-- 📚 [Udemy – The Art of Malware Creation: A Deep Dive into Cyber Attacks](https://www.udemy.com/course/malware-development-for-red-teamming/?couponCode=A4E4E484C6B22CDB66E0)  
 - 🔗 [LinkedIn](https://www.linkedin.com/in/developeravik/)  
 - 📂 [Portfolio Website](https://developeravik.xyz/)
 
 ---
-
-> "Security is not a product, but a process." – Bruce Schneier
 
 Thanks for stopping by! Feel free to explore my repos or reach out for collaboration, mentorship, or bug bounty discussions. 🚀
 
