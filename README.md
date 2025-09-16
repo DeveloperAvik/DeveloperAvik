@@ -1,6 +1,6 @@
 # 👋 Hey there! I'm Avik D.
 
-## 🛡️ Software Engineer | Penetration Tester | 💻 Full-Stack Developer | 🎓 Educator & Content Creator
+## 🛡️ Software Engineer | AI/ML Enthusiast | Penetration Tester | 💻 Full-Stack Developer | 🎓 Educator & Content Creator
 
 > **"One thing God and I have in common: we write code for creation, not repetition."**  
 > — *Avik Das*
