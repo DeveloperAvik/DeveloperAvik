@@ -1,11 +1,11 @@
 # 👋 Hey there! I'm Avik D.
 
-## 🛡️ Software Engineer | AI/ML Enthusiast | Penetration Tester | 💻 Full-Stack Developer | 🎓 Educator & Content Creator
+## 🛡️ Software Engineer | AI/ML Enthusiast | Penetration Tester | 💻 Full-Stack Developer (MERNTPMD) | 🎓 Educator & Content Creator
 
 > **"One thing God and I have in common: we write code for creation, not repetition."**  
 > — *Avik Das*
 
-I'm a passionate cybersecurity enthusiast and software engineer with expertise in offensive security, full-stack development, and educational content creation.
+I'm a passionate cybersecurity enthusiast and software engineer with expertise in offensive security, full-stack development, and creating educational content.
 
 ---
 
