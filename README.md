@@ -13,7 +13,7 @@ I’m a passionate **cybersecurity specialist** and **software engineer**, blend
 
 - 🧠 **TryHackMe LEGEND [0xD]** | 180+ rooms completed  
 - 🕵️ **BugCrowd Bug Bounty Hunter** | 50+ valid vulnerabilities reported (XSS, IDOR, Auth flaws, etc.)  
-- 📚 **Cybersecurity Instructor on Udemy** | 890+ Students enrolled  
+- 📚 **Cybersecurity Instructor on Udemy** | 900+ Students enrolled  
 - 🧪 Tools: **Burp Suite, Nmap, Metasploit, Nikto, Gobuster, wfuzz, dirsearch**
 
 ---
