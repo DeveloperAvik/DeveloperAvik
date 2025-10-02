@@ -1,4 +1,4 @@
-# 👋 Hey there! I'm Avik D.
+# 👋 Hey there! I'm Avik Das
 
 ## 🛡️ Software Engineer | AI/ML Enthusiast | Penetration Tester |  Full-Stack Developer |  Educator & Content Creator  
 
