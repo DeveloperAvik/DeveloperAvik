@@ -56,7 +56,7 @@ I’m a passionate **cybersecurity specialist** and **software engineer**, blend
 - Taught penetration testing & ethical hacking.  
 - Mentored 600+ students with hands-on labs & updated content.  
 
-**CEO & Software Engineer** – *Tytosoft (Mar 2023 – Present)*  
+**CEO & Software Engineer** – *Tytova Technology (Mar 2023 – Present)*  
 - Led development teams to build scalable applications.  
 - Spearheaded product innovation & client delivery.  
 
