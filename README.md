@@ -66,7 +66,7 @@ I’m a passionate **cybersecurity specialist** and **software engineer**, blend
 
 **Offensive Security Content Creator** – *YouTube (Apr 2022 – Present)*  
 - Published **50+ videos** on ethical hacking & bug hunting.  
-- Built a community of **600+ subscribers & 10k+ views**.  
+- Built a community of **650+ subscribers & 10k+ views**.  
 
 ---
 
