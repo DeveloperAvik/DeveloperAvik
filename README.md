@@ -54,7 +54,7 @@ I’m a passionate **cybersecurity specialist** and **software engineer**, blend
 
 **Instructor** – *Udemy (Sep 2024 – Present)*  
 - Taught penetration testing & ethical hacking.  
-- Mentored 600+ students with hands-on labs & updated content.  
+- Mentored  1000+ students with hands-on labs & updated content.  
 
 **CEO & Software Engineer** – *Tytova Technology (Mar 2023 – Present)*  
 - Led development teams to build scalable applications.  
