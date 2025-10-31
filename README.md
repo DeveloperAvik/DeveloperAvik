@@ -1,136 +1,167 @@
-# 👋 Hey there! I'm Avik Das
+<!-- Banner Section -->
+<h1 align="center">👋 Hey there! I'm <span style="color:#00bfff;">Avik Das</span></h1>
 
-## 🛡️ Software Engineer | AI/ML Enthusiast | Penetration Tester |  Educator & Content Creator  
+<h3 align="center">🛡️ Software Engineer | AI/ML Enthusiast | Penetration Tester | Educator & Content Creator</h3>
 
-> **"One thing God and I have in common: we write code for creation, not repetition."**  
-> — *Avik Das*
+<p align="center">
+  <em>“One thing God and I have in common: we write code for creation, not repetition.”</em>  
+  <br>— <strong>Avik Das</strong>
+</p>
 
-I’m a passionate **cybersecurity specialist** and **software engineer**, blending offensive security expertise with full-stack development and teaching. My mission is to create, secure, and share knowledge.
+---
+
+## 🧠 About Me  
+
+I’m a passionate **Cybersecurity Specialist**, **Full-Stack Developer**, and **Educator** blending offensive security expertise with modern software engineering.  
+I believe in building **secure, scalable, and intelligent systems** — and empowering others to do the same through teaching and open-source contributions.
+
+ <!-- - 🔭 Currently building: **ConnectAI** (AI + Blockchain Social Network)  -->
+- 🧩 Exploring: **AI-driven Security Automation & Cloud Security**  
+- 🎯 Goal: To revolutionize digital trust with secure, decentralized, and ethical tech  
+- 💬 Ask me about: Web Security • AI/ML • Full Stack Development • Startups  
+- 📧 Reach me: **developeravikdas@gmail.com**
 
 ---
 
 ## 🔐 Cybersecurity Highlights
 
-- 🧠 **TryHackMe LEGEND [0xD]** | 180+ rooms completed  
-- 🕵️ **BugCrowd Bug Bounty Hunter** | 50+ valid vulnerabilities reported (XSS, IDOR, Auth flaws, etc.)  
-- 📚 **Cybersecurity Instructor on Udemy** | 900+ Students enrolled  
-- 🧪 Tools: **Burp Suite, Nmap, Metasploit, Nikto, Gobuster, wfuzz, dirsearch**
+- 🧠 **TryHackMe LEGEND [0xD]** — 180+ rooms completed  
+- 🕵️ **BugCrowd Bug Bounty Hunter** — 50+ valid vulnerabilities (XSS, IDOR, Auth flaws, etc.)  
+- 📚 **Udemy Instructor** — 900+ students in advanced penetration testing courses  
+- 🧪 Tools: `Burp Suite`, `Nmap`, `Metasploit`, `Nikto`, `wfuzz`, `Gobuster`, `dirsearch`
 
 ---
 
-## 💻 Featured Projects
+## 💼 Professional Experience  
 
-- 🧭 **BackToMe** – Lost and Found Platform  
-  *React.js, Tailwind, Node.js, MongoDB, Firebase*  
-  → Real-time reporting & search with **95% match accuracy**  
-  🔗 [GitHub](https://github.com/DeveloperAvik/BackToMe)
+**💻 Cybersecurity Consultant** — *ThinkCloudly (May 2025 – Present)*  
+• Conducted web & cloud pentests, vulnerability assessments, and code audits.  
+• Collaborated with developers to implement secure coding practices.  
 
-- 🍽️ **BistroTrack** – Restaurant Management System  
-  *MERN Stack, JWT, Stripe*  
-  → Admin dashboard with **300+ orders processed** and **100+ secure accounts**  
-  🔗 [GitHub](https://github.com/DeveloperAvik/BistroTrack)
+**🧩 Bug Hunter** — *Bugcrowd (Oct 2024 – Present)*  
+• Discovered and reported 50+ real-world vulnerabilities.  
+• Specialized in manual testing, reconnaissance, and exploit crafting.  
 
-- ⚡ **Promptly** – Task Management Application  
-  *MERN Stack*  
-  → Real-time collaboration, task tracking, and notifications  
-  🔗 [GitHub](https://github.com/DeveloperAvik/Promptly)
+**📚 Instructor** — *Udemy (Sep 2024 – Present)*  
+• Taught 1,000+ students on penetration testing & ethical hacking.  
+• Built practical labs and course frameworks rated 4.5★+.  
 
-- 🎓 **Student Management System** – Educational Administration  
-  *Django, PostgreSQL*  
-  → Manage attendance, grades, and student records  
-  🔗 [GitHub](https://github.com/DeveloperAvik/StudentManagement)
+**🚀 Founder & Software Engineer** — *Tytova Technology (Mar 2023 – Present)*  
+• Built secure SaaS platforms and handled end-to-end architecture.  
+• Led a cross-functional team delivering high-quality software products.  
 
----
+**💡 Full Stack Developer (MERN)** — *Fn’s Software (Jan 2022 – Jun 2022)*  
+• Developed & deployed dynamic applications with performance optimization.  
 
-## 💼 Professional Experience
-
-**Cybersecurity Consultant** – *ThinkCloudly (May 2025 – Present)*  
-- Performed web & cloud penetration testing, vulnerability assessments, and secure code reviews.  
-- Collaborated with dev teams to integrate secure coding practices.  
-
-**Bug Hunter** – *Bugcrowd (Oct 2024 – Present)*  
-- Reported real-world vulnerabilities (XSS, IDOR, Auth flaws).  
-- Specialized in manual testing & reconnaissance.  
-
-**Instructor** – *Udemy (Sep 2024 – Present)*  
-- Taught penetration testing & ethical hacking.  
-- Mentored  1000+ students with hands-on labs & updated content.  
-
-**CEO & Software Engineer** – *Tytova Technology (Mar 2023 – Present)*  
-- Led development teams to build scalable applications.  
-- Spearheaded product innovation & client delivery.  
-
-**Full Stack Web Developer (MERN)** – *Fn's Software (Jan 2022 – Jun 2022)*  
-- Delivered high-quality applications using the MERN stack.  
-- Collaborated cross-team for UI/UX and performance optimization.  
-
-**Offensive Security Content Creator** – *YouTube (Apr 2022 – Present)*  
-- Published **50+ videos** on ethical hacking & bug hunting.  
-- Built a community of **650+ subscribers & 10k+ views**.  
+**🎥 Offensive Security Content Creator** — *YouTube (Apr 2022 – Present)*  
+• 50+ educational videos | 650+ subscribers | 10K+ total views.  
 
 ---
 
-## 🔧 Technical Skills
+## 💻 Featured Projects  
 
-**Languages:** Python, JavaScript, TypeScript, C, C++  
-**Frameworks & Tools:** React, Node.js, Express, Next.js, Django, Tailwind, Redux  
-**Security:** Web App Pentesting, OWASP Top 10, Reconnaissance, Exploit Development  
-**Databases:** MongoDB, PostgreSQL, MySQL  
-**Platforms:** Git, Firebase, Vercel, Stripe API, AWS, Cloudflare  
-
----
-
-## 🏅 Honors & Certifications
-
-- 🏆 Zonal Information Olympiad Finalist  
-- 🥇 LeetCode 50 Days Badge | 100+ Problems Solved  
-- 📜 Meta Certifications: JavaScript, Back-End Development  
-- 📘 IBM & EC-Council Certifications: Cybersecurity Tools, Network Defense  
-- 🛡️ eJPT (eLearnSecurity Junior Penetration Tester)  
-- 🔐 OSCP (Offensive Security Certified Professional)  
+| Project | Description | Tech Stack | Link |
+|----------|--------------|-------------|------|
+| 🧭 **BackToMe** | Lost & Found Platform with real-time reporting & 95% match accuracy | React, Tailwind, Node.js, MongoDB, Firebase | [GitHub](https://github.com/DeveloperAvik/BackToMe) |
+| 🍽️ **BistroTrack** | Restaurant Management System with JWT & Stripe | MERN Stack | [GitHub](https://github.com/DeveloperAvik/BistroTrack) |
+| ⚡ **Promptly** | Real-time Task Management | MERN Stack | [GitHub](https://github.com/DeveloperAvik/Promptly) |
+| 🎓 **Student Management System** | Educational Administration Portal | Django, PostgreSQL | [GitHub](https://github.com/DeveloperAvik/StudentManagement) |
 
 ---
 
-## 🌐 Connect With Me
+## 🛠️ Tech Stack  
 
-- 🎥 [YouTube – Ethical Hacking Tutorials](https://www.youtube.com/@DreadSpecterOfficial)  
-- 📚 [Udemy – Courses](https://www.udemy.com/user/avik-das-5/)  
-- 🔗 [LinkedIn](https://www.linkedin.com/in/developeravik/)  
-- 📂 [Portfolio](https://developeravik.xyz/)  
+<div align="center">
+  <!-- Programming Languages -->
+  <img src="https://skillicons.dev/icons?i=python,c,cpp,java,js,ts,solidity" height="45" />
 
----
+  <br/><br/>
 
-## 📊 GitHub Stats
+  <!-- Frontend -->
+  <img src="https://skillicons.dev/icons?i=html,react,nextjs,tailwind,graphql,redux,chartjs,jquery" height="45" />
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DeveloperAvik&theme=react&hide_border=false&include_all_commits=true&count_private=true)  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DeveloperAvik&theme=react&hide_border=false)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DeveloperAvik&theme=react&hide_border=false&include_all_commits=true&count_private=true&layout=compact)  
+  <br/><br/>
 
----
+  <!-- Backend -->
+  <img src="https://skillicons.dev/icons?i=nodejs,express,nginx,tomcat" height="45" />
 
-## 🚀 Tech Stack
+  <br/><br/>
 
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) 
-![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) 
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) 
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) 
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
-![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) 
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) 
-![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) 
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) 
-![PostgreSQL](https://img.shields.io/badge/postgresql-%23336791.svg?style=for-the-badge&logo=postgresql&logoColor=white) 
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) 
-![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) 
-![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) 
-![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) 
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) 
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) 
+  <!-- Databases -->
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis" height="45" />
+
+  <br/><br/>
+
+  <!-- Cloud & Deployment -->
+  <img src="https://skillicons.dev/icons?i=aws,gcp,firebase,digitalocean,vercel,netlify,cloudflare,docker,render" height="45" />
+
+  <br/><br/>
+
+  <!-- AI / ML -->
+  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn,pandas,numpy,anaconda,plotly" height="45" />
+
+  <br/><br/>
+
+  <!-- DevOps & Tools -->
+  <img src="https://skillicons.dev/icons?i=git,github,gitlab,githubactions,raspberrypi,jest,cypress" height="45" />
+</div>
 
 ---
 
-> *"Security is not a product, but a process." – Bruce Schneier*  
+## 🏅 Certifications & Achievements  
+
+- 🛡️ **eJPT (eLearnSecurity Junior Penetration Tester)**  
+- 🔐 **OSCP (Offensive Security Certified Professional)**  
+- 🧾 **Meta Certifications** — JavaScript & Back-End Development  
+- 🧰 **IBM & EC-Council** — Cybersecurity Tools, Network Defense  
+- 🏆 **Zonal Informatics Olympiad Finalist**  
+- 💡 **LeetCode 50 Days Badge** — 100+ problems solved  
+
+---
+
+## 🌐 Connect With Me  
+
+<p align="center">
+  <a href="https://discord.gg/developeravik"><img src="https://skillicons.dev/icons?i=discord" height="40"/></a>
+  <a href="https://facebook.com/tyto.avik"><img src="https://skillicons.dev/icons?i=facebook" height="40"/></a>
+  <a href="https://instagram.com/developeravik"><img src="https://skillicons.dev/icons?i=instagram" height="40"/></a>
+  <a href="https://linkedin.com/in/developeravik"><img src="https://skillicons.dev/icons?i=linkedin" height="40"/></a>
+  <a href="https://medium.com/@developeravik"><img src="https://skillicons.dev/icons?i=medium" height="40"/></a>
+  <a href="https://youtube.com/@DreadSpecter"><img src="https://skillicons.dev/icons?i=youtube" height="40"/></a>
+  <a href="mailto:developeravikdas@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" height="40"/></a>
+</p>
+
+---
+
+## 📊 GitHub Analytics  
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=DeveloperAvik&theme=radical&hide_border=true&border_radius=6" height="160" />
+  <img src="https://github-profile-trophy.vercel.app/?username=DeveloperAvik&theme=dracula&margin-w=15&margin-h=15" height="160" />
+</div>
+
+<br/>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg">
+    <img alt="Pacman contribution graph" src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg" />
+  </picture>
+</p>
+
+---
+
+### ✍️ Dev Quote  
+> ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+### 🔝 Top Contributed Repos  
+> ![](https://github-contributor-stats.vercel.app/api?username=DeveloperAvik&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+---
+
+<p align="center">
+  <img src="https://visitcount.itsvg.in/api?id=DeveloperAvik&icon=5&color=3" />
+</p>
+
+<!-- End of README -->
