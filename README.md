@@ -26,8 +26,8 @@ I believe in building **secure, scalable, and intelligent systems** — and empo
 ## 🔐 Cybersecurity Highlights
 
 - 🧠 **TryHackMe LEGEND [0xD]** — 180+ rooms completed  
-- 🕵️ **BugCrowd Bug Bounty Hunter** — 50+ valid vulnerabilities (XSS, IDOR, Auth flaws, etc.)  
-- 📚 **Udemy Instructor** — 1000+ students in advanced penetration testing courses  
+- 🕵️ **BugCrowd Bug Bounty Hunter** — 60+ valid vulnerabilities (XSS, IDOR, Auth flaws, etc.)  
+- 📚 **Udemy Instructor** — 1100+ students in advanced penetration testing courses  
 - 🧪 Tools: `Burp Suite`, `Nmap`, `Metasploit`, `Nikto`, `wfuzz`, `Gobuster`, `dirsearch`
 
 ---
