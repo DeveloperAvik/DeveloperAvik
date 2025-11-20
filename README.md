@@ -57,16 +57,6 @@ I believe in building **secure, scalable, and intelligent systems** — and empo
 
 ---
 
-## 💻 Featured Projects  
-
-| Project | Description | Tech Stack | Link |
-|----------|--------------|-------------|------|
-| 🧭 **BackToMe** | Lost & Found Platform with real-time reporting & 95% match accuracy | React, Tailwind, Node.js, MongoDB, Firebase | [GitHub](https://github.com/DeveloperAvik/BackToMe) |
-| 🍽️ **BistroTrack** | Restaurant Management System with JWT & Stripe | MERN Stack | [GitHub](https://github.com/DeveloperAvik/BistroTrack) |
-| ⚡ **Promptly** | Real-time Task Management | MERN Stack | [GitHub](https://github.com/DeveloperAvik/Promptly) |
-| 🎓 **Student Management System** | Educational Administration Portal | Django, PostgreSQL | [GitHub](https://github.com/DeveloperAvik/StudentManagement) |
-
----
 
 ## 🛠️ Tech Stack  
 
