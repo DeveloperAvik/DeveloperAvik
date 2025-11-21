@@ -45,7 +45,7 @@ I believe in building **secure, scalable, and intelligent systems** — and empo
 • Taught 1,000+ students on penetration testing & ethical hacking.  
 • Built practical labs and course frameworks rated 4.5★+.  
 
-**🚀 Founder & Software Engineer** — *Tytova Technology (Mar 2023 – Present)*  
+**🚀 Founder & Software Engineer** — *Tytova Technologies (Mar 2023 – Present)*  
 • Built secure SaaS platforms and handled end-to-end architecture.  
 • Led a cross-functional team delivering high-quality software products.  
 
