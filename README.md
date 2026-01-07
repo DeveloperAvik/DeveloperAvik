@@ -1,5 +1,5 @@
 <!-- Banner Section -->
-<h1 align="center">👋 Hey there! I'm <span style="color:#00bfff;">Avik Das</span></h1>
+<h1 align="center"> Hey there! I'm <span style="color:#00bfff;">Avik Das</span></h1>
 
 <h3 align="center">🛡️ Software Engineer | AI/ML Enthusiast | Penetration Tester | Educator & Content Creator</h3>
 
