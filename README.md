@@ -111,10 +111,6 @@ I believe in building **secure, scalable, and intelligent systems** — and empo
 ## 🌐 Connect With Me  
 
 <p align="center">
-  <a href="https://discord.gg/developeravik"><img src="https://skillicons.dev/icons?i=discord" height="40"/></a>
-  <a href="https://facebook.com/tyto.avik"><img src="https://skillicons.dev/icons?i=facebook" height="40"/></a>
-  <a href="https://instagram.com/developeravik"><img src="https://skillicons.dev/icons?i=instagram" height="40"/></a>
-  <a href="https://linkedin.com/in/developeravik"><img src="https://skillicons.dev/icons?i=linkedin" height="40"/></a>
   <a href="https://medium.com/@developeravik"><img src="https://skillicons.dev/icons?i=medium" height="40"/></a>
   <a href="https://youtube.com/@DreadSpecter"><img src="https://skillicons.dev/icons?i=youtube" height="40"/></a>
   <a href="mailto:developeravikdas@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" height="40"/></a>
