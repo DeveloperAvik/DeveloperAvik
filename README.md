@@ -53,7 +53,7 @@ I believe in building **secure, scalable, and intelligent systems** — and empo
 • Developed & deployed dynamic applications with performance optimization.  
 
 **🎥 Offensive Security Content Creator** — *YouTube (Apr 2022 – Present)*  
-• 50+ educational videos | 650+ subscribers | 10K+ total views.  
+• 50+ educational videos | 680+ subscribers | 10K+ total views.  
 
 ---
 
