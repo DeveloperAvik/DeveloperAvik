@@ -1,0 +1,32 @@
+<svg xml:space="preserve" xmlns="http://www.w3.org/2000/svg" width="900" height="368" viewBox="0 0 900 368" role="img" aria-label="avik terminal">
+<style>
+text{font-family:'SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace;font-size:15px}
+.l{animation:show .01s backwards}
+@keyframes show{from{opacity:0}to{opacity:1}}
+.c{animation:blink 1s steps(1) infinite}
+@keyframes blink{50%{opacity:0}}
+.g{animation:scan 6s linear infinite}
+@keyframes scan{0%{transform:translateY(0)}100%{transform:translateY(368px)}}
+</style>
+<defs><linearGradient id="s" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#00FF41" stop-opacity="0"/><stop offset="1" stop-color="#00FF41" stop-opacity=".08"/></linearGradient>
+<clipPath id="w"><rect width="900" height="368" rx="10"/></clipPath></defs>
+<g clip-path="url(#w)">
+<rect width="900" height="368" fill="#0d1117"/>
+<rect width="900" height="40" fill="#161b22"/>
+<circle cx="24" cy="20" r="6" fill="#ff5f56"/><circle cx="46" cy="20" r="6" fill="#ffbd2e"/><circle cx="68" cy="20" r="6" fill="#27c93f"/>
+<text x="450" y="25" text-anchor="middle" fill="#8b949e" style="font-size:13px">avik@root: ~ — zsh — 120×30</text>
+<text x="28" y="68" fill="#00FF41" style="font-size:13px" opacity=".7">Last login: Sun Nov  8 on ttys001 · session encrypted</text>
+<text class="l" style="animation-delay:0.4s" x="28" y="96"><tspan fill="#00FF41">avik@root:~$</tspan> <tspan fill="#e6edf3">id</tspan></text>
+<text class="l" style="animation-delay:1.2s" x="28" y="124"><tspan fill="#8b949e">uid=1000(avik) gid=1000(offsec) groups=offsec,exploit-dev,research,founder</tspan></text>
+<text class="l" style="animation-delay:2.2s" x="28" y="154"><tspan fill="#00FF41">avik@root:~$</tspan> <tspan fill="#e6edf3">cat certs</tspan></text>
+<text class="l" style="animation-delay:3.0s" x="28" y="182"><tspan fill="#8b949e">[PASS] OSCP  [PASS] eWPTX  [PASS] CRTA  [PASS] eJPT  [WIP ] OSEP</tspan></text>
+<text class="l" style="animation-delay:4.0s" x="28" y="212"><tspan fill="#00FF41">avik@root:~$</tspan> <tspan fill="#e6edf3">cat research</tspan></text>
+<text class="l" style="animation-delay:4.8s" x="28" y="240"><tspan fill="#8b949e">7 papers on IEEE Xplore (2026)  ·  10 patents in progress</tspan></text>
+<text class="l" style="animation-delay:5.8s" x="28" y="270"><tspan fill="#00FF41">avik@root:~$</tspan> <tspan fill="#e6edf3">./status --now</tspan></text>
+<text class="l" style="animation-delay:6.6s" x="28" y="298"><tspan fill="#8b949e">shipping: SheGuardAI   studying: exploit-dev   mode: red-team</tspan></text>
+
+<text class="l c" style="animation-delay:7.4s" x="28" y="328" fill="#00FF41">avik@root:~$ <tspan fill="#e6edf3">█</tspan></text>
+<g class="g"><rect y="-80" width="900" height="80" fill="url(#s)"/></g>
+</g>
+<rect x=".5" y=".5" width="899" height="367" rx="10" fill="none" stroke="#00FF41" stroke-opacity=".35"/>
+</svg>
